@@ -24,7 +24,7 @@
 }
 
 .sidebar-nav{
-    width: 200px;
+    width: 20%;
     height: -webkit-fill-available;
     background-color: rgb(178, 178, 184);
     position: absolute;
@@ -37,4 +37,12 @@
 .sidebar-nav ul li:hover{
     background-color: rgb(60, 60, 62);
     color: #fff;
+}
+
+.container{
+    width: 80%;
+    height: -webkit-fill-available;;
+    position: absolute;
+    right: 0;
+    background-color: #dcdadd;
 }
